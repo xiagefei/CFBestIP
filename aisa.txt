@@ -3,7 +3,7 @@
 192.243.123.44:443#🇯🇵 | Osaka | ❤️AisaT10M
 85.155.176.241:443#🇰🇷 | Seoul | ❤️AisaT10M
 23.26.201.245:443#🇭🇰 | Hong Kong | ❤️AisaT10M
-45.192.242.10:443#🇸🇨 |Seychelles | ❤️AisaT10M
+45.192.242.10:443#🇸🇨 | Seychelles | ❤️AisaT10M
 154.83.92.214:443#🇯🇵 | Tokyo | ❤️AisaT10M
 52.66.200.252:443#🇮🇳 | Mumbai | ❤️AisaT10M
 45.89.232.111:8443#🇯🇵 | Tokyo | ❤️AisaT10M
