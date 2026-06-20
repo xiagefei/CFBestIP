@@ -70,3 +70,11 @@
 45.202.243.127:443#🇺🇸 | Los Angeles | ❤️CMCC
 45.202.240.71:28638#🇺🇸 | Los Angeles | ❤️CMCC
 205.186.67.171:54557#🇲🇾 | Kuala Lumpur | ❤️CMCC
+136.0.110.102:443#🇲🇾 | Kuala Lumpur | ❤️CMCC
+23.27.199.232:443#🇲🇾 | Kuala Lumpur | ❤️CMCC
+202.61.75.97:443#🇲🇾 | Kuala Lumpur | ❤️CMCC
+142.111.146.18:443#🇲🇾 | Kuala Lumpur | ❤️CMCC
+96.126.190.99:443#🇲🇾 | Kuala Lumpur | ❤️CMCC
+166.88.7.167:8443#🇲🇾 | Kuala Lumpur | ❤️CMCC
+202.61.75.97:443#🇲🇾 | Kuala Lumpur | ❤️CMCC
+23.27.240.158:443#🇲🇾 | Kuala Lumpur | ❤️CMCC
