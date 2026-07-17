@@ -1,6 +1,80 @@
-220.128.110.108:43
-210.138.37.53:443
-126.220.82.161:443
-101.143.106.138:12999
-121.86.164.5:20202
-121.83.9.37:10000
+13.115.92.147:443#🇯🇵 | Tokyo | ❤️CU
+54.178.13.195:443#🇯🇵 | Tokyo | ❤️CU
+57.180.61.152:443#🇯🇵 | Tokyo | ❤️CU
+13.250.70.157:443#🇸🇬 | Singapore | ❤️CU
+16.176.42.97:443#🇦🇺 | Sydney | ❤️CU
+205.186.67.232:8443#🇲🇾 | Kuala Lumpur | ❤️CU
+20.222.179.165:443#🇯🇵 | Tokyo | ❤️CU
+168.93.198.43:443#🇲🇾 | Kuala Lumpur | ❤️CU
+20.200.210.97:443#🇰🇷 | Seoul | ❤️CU
+205.186.67.232:443#🇲🇾 | Kuala Lumpur | ❤️CU
+152.67.79.135:443#🇨🇭 | Zurich | ❤️CU
+45.134.36.167:443#🇲🇾 | Kuala Lumpur | ❤️CU
+198.20.153.177:2053#🇲🇾 | Kuala Lumpur | ❤️CU
+140.245.112.15:443#🇸🇬 | Singapore | ❤️CU
+136.0.110.121:443#🇲🇾 | Kuala Lumpur | ❤️CU
+205.186.64.216:443#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.113.65:443#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.113.128:8443#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.28.65:8443#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.199.184:443#🇲🇾 | Kuala Lumpur | ❤️CU
+136.0.110.175:443#🇲🇾 | Kuala Lumpur | ❤️CU
+205.186.67.46:443#🇲🇾 | Kuala Lumpur | ❤️CU
+166.1.249.5:443#🇲🇾 | Kuala Lumpur | ❤️CU
+205.186.67.132:443#🇲🇾 | Kuala Lumpur | ❤️CU
+202.61.75.147:2083#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.199.232:443#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.28.98:443#🇲🇾 | Kuala Lumpur | ❤️CU
+172.67.198.84:443#🇨🇦 | Toronto | ❤️CU
+149.118.55.215:8443#🇸🇬 | Singapore | ❤️CU
+166.1.249.190:443#🇲🇾 | Kuala Lumpur | ❤️CU
+108.165.65.51:8443#🇲🇾 | Kuala Lumpur | ❤️CU
+156.229.160.12:8443#🇺🇸 | Los Angeles | ❤️CU
+23.27.113.218:8443#🇲🇾 | Kuala Lumpur | ❤️CU
+172.67.189.110:443#🇨🇦 | Toronto | ❤️CU
+198.20.153.191:443#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.53.144:443#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.240.129:443#🇲🇾 | Kuala Lumpur | ❤️CU
+38.211.230.168:443#🇲🇾 | Kuala Lumpur | ❤️CU
+198.20.153.216:443#🇲🇾 | Kuala Lumpur | ❤️CU
+136.0.110.236:443#🇲🇾 | Kuala Lumpur | ❤️CU
+205.186.67.34:443#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.53.32:443#🇲🇾 | Kuala Lumpur | ❤️CU
+168.93.198.193:443#🇲🇾 | Kuala Lumpur | ❤️CU
+23.26.204.224:8443#🇲🇾 | Kuala Lumpur | ❤️CU
+168.93.198.122:443#🇲🇾 | Kuala Lumpur | ❤️CU
+202.61.74.77:443#🇲🇾 | Kuala Lumpur | ❤️CU
+108.165.65.174:2053#🇲🇾 | Kuala Lumpur | ❤️CU
+20.120.129.200:443#🇺🇸 | Quincy | ❤️CU
+202.61.74.212:443#🇲🇾 | Kuala Lumpur | ❤️CU
+104.21.49.88:443#🇨🇦 | Toronto | ❤️CU
+142.111.146.18:443#🇲🇾 | Kuala Lumpur | ❤️CU
+172.66.0.218:8443#🇨🇦 | Toronto | ❤️CU
+166.1.249.19:443#🇲🇾 | Kuala Lumpur | ❤️CU
+205.186.64.123:443#🇲🇾 | Kuala Lumpur | ❤️CU
+104.21.90.86:443#🇨🇦 | Toronto | ❤️CU
+23.26.204.120:443#🇲🇾 | Kuala Lumpur | ❤️CU
+98.70.151.190:443#🇮🇳 | Jamnagar | ❤️CU
+166.88.7.167:8443#🇲🇾 | Kuala Lumpur | ❤️CU
+205.186.64.96:443#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.28.211:443#🇲🇾 | Kuala Lumpur | ❤️CU
+166.88.132.65:443#🇩🇪 | Frankfurt am Main | ❤️CU
+108.165.65.41:8443#🇲🇾 | Kuala Lumpur | ❤️CU
+136.0.110.36:443#🇲🇾 | Kuala Lumpur | ❤️CU
+142.111.143.192:443#🇲🇾 | Kuala Lumpur | ❤️CU
+166.88.7.7:443#🇲🇾 | Kuala Lumpur | ❤️CU
+108.165.65.216:443#🇲🇾 | Kuala Lumpur | ❤️CU
+202.61.75.147:2053#🇲🇾 | Kuala Lumpur | ❤️CU
+108.165.177.37:443#🇲🇾 | Kuala Lumpur | ❤️CU
+104.21.90.208:443#🇨🇦 | Toronto | ❤️CU
+202.61.75.38:443#🇲🇾 | Kuala Lumpur | ❤️CU
+37.19.222.216:443#🇸🇪 | Stockholm | ❤️CU
+168.93.198.108:443#🇲🇾 | Kuala Lumpur | ❤️CU
+136.0.141.222:443#🇳🇱 | Haarlem | ❤️CU
+205.186.67.139:443#🇲🇾 | Kuala Lumpur | ❤️CU
+172.196.40.147:443#🇳🇿 | Auckland | ❤️CU
+172.66.0.218:443#🇨🇦 | Toronto | ❤️CU
+202.61.75.68:2053#🇲🇾 | Kuala Lumpur | ❤️CU
+23.27.24.97:2087#🇵🇱 | Warsaw | ❤️CU
+168.93.198.146:8443#🇲🇾 | Kuala Lumpur | ❤️CU
+166.88.4.59:443#🇬🇧 | London | ❤️CU
